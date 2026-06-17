@@ -22,6 +22,16 @@ A measurably trustworthy RAG-based AI copilot that helps Northwind support agent
 
 ---
 
+## 📐 Architecture Diagrams
+
+### 1. System Architecture
+![System Architecture](architecture_diagram.png)
+
+### 2. Request Flow (Sequence Diagram)
+![Sequence Diagram](sequence_diagram.png)
+
+---
+
 ## 🧠 How It Works (RAG Pipeline)
 
 ```
